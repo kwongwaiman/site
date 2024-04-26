@@ -5,7 +5,7 @@ order: 4
 title: About me
 ---
 
-I am Dr. Raymond Kwong Wai-man, an Assistant Professor in the Department of Social Sciences at Hong Kong Metropolitan University. I obtained my Ph.D. in Economics from Newcastle University, UK, a M.Sc. in Finance from The City University of Hong Kong (CityU), and a M.Phil. in Computing from the Hong Kong Polytechnic Unviersity (HKPU) underpinning my expertise in both finance and technology.
+I am Dr. Raymond Kwong Wai-man, an Assistant Professor in the Department of Social Sciences at Hong Kong Metropolitan University. I obtained my Ph.D. in Economics from Newcastle University, UK, a M.Sc. in Finance from the City University of Hong Kong (CityU), and a M.Phil. in Computing from the Hong Kong Polytechnic Unviersity (HKPU) underpinning my expertise in both finance and technology.
 
 As a CFA charterholder and a Certified Financial Risk Manager (FRM), my professional qualifications reflect a deep commitment to financial analysis and risk management excellence. These qualifications play a pivotal role in my research and teaching, where I specialize in integrating financial knowledge with technological advancements.
 
